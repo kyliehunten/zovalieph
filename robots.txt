@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eexeegaep.cannandev.com/sitemap.xml
